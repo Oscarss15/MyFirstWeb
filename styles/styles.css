@@ -22,14 +22,15 @@ body{
 }
 
 #textohead{
-    width: 30%;
+    width: 40%;
+    float: left;
     height: 1100px;
     background-color: green;
 }
 #imghead{
-    width: 30%;
+    
     height: 1100px;
-    background-color: black;
+    background-color: red;
 }
 
 #nuestroTrabajo{
@@ -47,3 +48,5 @@ body{
     }
 
  
+
+    
