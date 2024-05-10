@@ -1,52 +1,19 @@
-main{
-    
-   
-    
-    
-}
-footer{
-    height: 200px;
-    background-color: #eeeeee;
-}
+
+@import url("head.css");
+@import url("homes.css");
+@import url("footer.css");
 
 body{
+    
     background-color: #eeeeee;
     margin-left:25%;
     margin-right: 25%;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 900px;
+
 }
 
-#head{
-    height: 1100px;
-    
-    
-}
 
-#textohead{
-    width: 40%;
-    float: left;
-    height: 1100px;
-    background-color: green;
-}
-#imghead{
-    
-    height: 1100px;
-    background-color: red;
-}
 
-#nuestroTrabajo{
-    background-color: black;
-    height: 100px;
-}
 
-#casa1,#casa2,#casa3,#casa4,#casa5{
-    height: 500px;
-    background-color: yellow;
-}
-#tituloCasa1,#tituloCasa2,#tituloCasa3,#tituloCasa4,#tituloCasa5{
-    background-color: white;
-    height: 150px;
-    }
 
- 
-
-    

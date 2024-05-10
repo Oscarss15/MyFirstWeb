@@ -1,0 +1,21 @@
+footer{
+
+    height: 200px;
+    background-color: #eeeeee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#contenedorfooter{
+
+    text-align: center;
+
+}
+
+#titulofooter{
+
+    font-size: 25px;
+    
+}

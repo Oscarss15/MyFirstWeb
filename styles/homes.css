@@ -1,0 +1,52 @@
+#nuestroTrabajo{
+
+    background-color: #383434;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#contenedorNuestroTrabajo{
+
+    color:white;
+    height: 30px;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: dotted 1px #fff;
+    border-right: dotted 1px #fff;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    
+}
+
+#tituloNuestroTrabajo{
+
+    font-size: 1.2rem;
+    text-transform: capitalize;
+
+}
+ 
+#casa1,#casa2,#casa3,#casa4,#casa5{
+  
+    height: 507px;
+    
+}
+#tituloCasa1,#tituloCasa2,#tituloCasa3,#tituloCasa4,#tituloCasa5{
+
+    background-color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    }
+
+#foto{
+
+    text-align: center;
+    
+}
