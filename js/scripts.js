@@ -1,6 +1,7 @@
 
+ 
 
-document.querySelector('#contenedorenlace').addEventListener('click', () =>{
+document.querySelector('#divbutton').addEventListener('click', () =>{
     goDown()
 });
 
@@ -9,5 +10,9 @@ document.querySelector('#contenedorenlace').addEventListener('click', () =>{
     function goDown() {
         window.scrollTo(0, 975);
     }
+/*
+    document.getElementById("contenedorenlace").addEventListener("click", () => {
+         document.getElementById("nuestroTrabajo").focus()
+      });
 
-   
+      */

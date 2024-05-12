@@ -4,7 +4,7 @@
 
 }
 
-#textohead{
+#texthead{
     
     float:left;
     width: 42%;
@@ -16,14 +16,14 @@
     
 }
 
-#centrarcontenido{
+#centerdiv{
 
     height: 300px;
     
 }
     
     
-#titulo{
+#title{
 
      font-size: 3.5rem;
      text-align: center;
@@ -31,7 +31,7 @@
 
 }
     
-#subtitulo{
+#subtitle{
        
     font-size: 1.1rem;
     text-align: center;
@@ -39,7 +39,7 @@
         
 }
     
-#contenedorenlace{
+#divbutton{
 
     height: 50px;
     display: flex;
@@ -55,7 +55,7 @@
  }
 
 
-#contenedorenlace:hover{
+#divbutton:hover{
 
     background-color: #f8f4f4;
 
