@@ -31,6 +31,9 @@ Hemos creado nuestro primer proyecto basado en el diseño arquitectónico de cas
 
 En esta página se van a encontrar diferentes modelos de fachadas arquitectónicas ya que el objetivo es mostrar los distintos tipos de diseño.
 
+Aquí esta el enlace a figma:
+
+[Figma](https://www.figma.com/file/F24nPkKXNKlyVDf5foNOsk/1-actvidad-html?type=whiteboard&node-id=342-258&t=AukGL8pch5HelT1W-0)
 
 
 
